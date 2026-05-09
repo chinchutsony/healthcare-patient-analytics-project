@@ -44,3 +44,9 @@ Healthcare Patient Analytics Dataset from Kaggle.
 -Only a small number of patients were high-risk
 -Charts helped identify healthcare trends and patterns
 -Analysis supports better hospital planning and decision-making
+
+## Day 3 Progress
+- Relationship between teatment cost and recovery
+- Age group Pattern
+- correlation analysis
+- dashboard planning
