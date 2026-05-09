@@ -27,3 +27,20 @@ Healthcare Patient Analytics Dataset from Kaggle.
 - Avg Treatment Cost: 54915.47
 - Highest Patient Department: Orthopedics
 - Avg Recovery Score: 74.72
+
+## Day2 Progress
+  - Focused on healthcare data visualisation and operational analysis
+  - create Charts and pivot tables
+  - analyse department workload, treatment cost distribution, patient recovery outcomes, and readmission risk patterns
+ 
+## Findings
+-Orthopedics had the highest patient count
+-High patient volume indicates increased workload
+-Most treatment costs were in the moderate range
+-Few patients had very high treatment costs
+-Recovery scores were generally above average
+-Most patients showed positive recovery outcomes
+-Majority of patients had low readmission risk
+-Only a small number of patients were high-risk
+-Charts helped identify healthcare trends and patterns
+-Analysis supports better hospital planning and decision-making
