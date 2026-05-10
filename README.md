@@ -50,3 +50,15 @@ Healthcare Patient Analytics Dataset from Kaggle.
 - Age group Pattern
 - correlation analysis
 - dashboard planning
+
+## findings
+- No positive relationship was identified between treatment cost and recovery score.
+- Age group analysis showed only small differences in hospital stay duration across patient age groups.
+- Patients aged 18–30 had the slightly highest average hospital stay.
+- Recovery scores remained relatively consistent across all age groups.
+- Correlation analysis between treatment cost and recovery score resulted in -0.0145.
+- The correlation value indicates virtually no linear relationship between treatment cost and recovery outcomes.
+- The analysis suggests that higher healthcare spending did not significantly improve patient recovery in this dataset.
+  
+
+
