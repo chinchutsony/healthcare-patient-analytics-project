@@ -60,5 +60,29 @@ Healthcare Patient Analytics Dataset from Kaggle.
 - The correlation value indicates virtually no linear relationship between treatment cost and recovery outcomes.
 - The analysis suggests that higher healthcare spending did not significantly improve patient recovery in this dataset.
   
+## Day4 Progress
+- Created KPI summaries for healthcare performance analysis
+- Analysed department workload and operational demand
+- Categorised readmission risks into low, medium, and high groups
+- Performed recovery score and hospital stay analysis
+- Prepared dashboard-ready dataset for Power BI visualisation
+
+
+## findings
+- KPI analysis provided an overview of hospital performance, patient outcomes, and operational workload.
+- Key performance indicators (KPIs) included:
+   - Total Patients
+   - Average Treatment Cost
+   - Average Recovery Score
+   - Average Length of Stay (LOS)
+   - Highest Patient Department
+   - Readmission Risk Levels
+- KPIs were calculated using formulas, pivot tables, and charts in Microsoft Excel.
+- Orthopedics had the highest number of patients, indicating the busiest department.
+- Neurology showed the highest average treatment cost among all departments.
+- Neurology also recorded the highest recovery score, although differences between departments were relatively small.
+- Readmission risk analysis showed that most departments had similar risk distributions across low, medium, and high-risk categories.
+- The analysis helped identify operational patterns, patient outcomes, and healthcare performance trends within the dataset.
+
 
 
