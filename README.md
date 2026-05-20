@@ -84,5 +84,22 @@ Healthcare Patient Analytics Dataset from Kaggle.
 - Readmission risk analysis showed that most departments had similar risk distributions across low, medium, and high-risk categories.
 - The analysis helped identify operational patterns, patient outcomes, and healthcare performance trends within the dataset.
 
+## Day5 progress
+## Day 5 Progress
+
+- Designed a Healthcare Patient Analytics Dashboard in Excel
+- Created KPI metrics including:
+
+  * Total Patients
+  * Average Treatment Cost
+  * Average Recovery Score
+  * Average Length of Stay (LOS)
+  * Highest Patient Department
+- Developed healthcare visualisations using bar charts and scatter plots
+- Analysed department workload and patient outcome trends
+- Visualised readmission risk categories (Low, Medium, High)
+- Created recovery score and hospital stay comparisons across age groups
+-Organised dashboard layout with KPI, analysis, risk, and insight sections
+- Improved project presentation and dashboard structure for portfolio use
 
 
